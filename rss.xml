@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Welcome To The Official John Agostino Website And Blog.]]></title>
+        <description><![CDATA[Welcome To The Official John Agostino Website And Blog.]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 27 Jan 2016 02:22:10 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>John Agostino is an American Novelist born on September 3, 1959, in Brooklyn, New York. As the son of Italian immigrants, he effortlessly translates this robust culture and uses it as a rich, but subtle backdrop for his novels.</p>]]></description>
+            <link>undefined52341b73-a6ae-4ed4-8039-6e8c29765082/index.html</link>
+            <guid isPermaLink="false">52341b73-a6ae-4ed4-8039-6e8c29765082</guid>
+            <pubDate>Wed, 27 Jan 2016 02:22:08 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
